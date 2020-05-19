@@ -4,9 +4,9 @@
   - Developer: Sujan Dhakal
   
  To run:
-  - Run the Controller Class and pass "website.txt" and "commonword.txt" as arguments. 
-  - User will be asked to enter the keyword. Type the keyword and press enter. 
-  - The top 5 search results will be shown. 
+    - Run the Controller Class and pass "website.txt" and "commonword.txt" as arguments. 
+    - User will be asked to enter the keyword. Type the keyword and press enter. 
+    - The top 5 search results will be shown. 
   
   The priority of the website displayed are based on the following cases.
   
