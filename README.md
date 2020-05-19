@@ -11,9 +11,7 @@
   The priority of the website displayed are based on the following cases.
   
    1. Number of unique words that match the file/URL 
-    
    2. Rating of the website (High, Medium, Low) 
-    
    3. Alphabetical Order (by the name of the website) 
   
 
