@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WebsiteContainer
+comment1.params=
+comment1.target=WebsiteContainer()
+comment2.params=w
+comment2.target=void\ add(Website)
+comment3.params=
+comment3.target=int\ websiteNumber()
+comment4.params=i
+comment4.target=Website\ getWebsite(int)
+numComments=5

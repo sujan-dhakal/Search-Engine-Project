@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommonWordContainer
+comment1.params=
+comment1.target=CommonWordContainer()
+comment2.params=s
+comment2.target=void\ add(java.lang.String)
+comment3.params=
+comment3.target=int\ commonWordSize()
+comment4.params=
+comment4.target=java.lang.String[]\ getStringArray()
+comment5.params=i
+comment5.target=java.lang.String\ getCommonWord(int)
+numComments=6

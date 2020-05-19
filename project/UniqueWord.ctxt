@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=UniqueWord
+comment1.params=
+comment1.target=UniqueWord()
+comment2.params=s
+comment2.target=void\ add(java.lang.String)
+comment3.params=
+comment3.target=int\ getUniqueWordSize()
+comment4.params=i
+comment4.target=java.lang.String\ getUniqueWord(int)
+comment5.params=o
+comment5.target=boolean\ contains(java.lang.Object)
+numComments=6

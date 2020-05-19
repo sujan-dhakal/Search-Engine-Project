@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ContentContainer
+comment1.params=
+comment1.target=ContentContainer()
+comment2.params=u
+comment2.target=void\ add(UniqueWord)
+comment3.params=
+comment3.target=int\ getContentSize()
+comment4.params=i
+comment4.target=UniqueWord\ getContent(int)
+numComments=5

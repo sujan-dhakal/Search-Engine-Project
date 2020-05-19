@@ -1,0 +1,5 @@
+www.computer.com medium computer.txt
+www.mother.com high mother.txt
+www.music.com low music.txt
+www.football.com high football.txt
+www.money.com medium money.txt
