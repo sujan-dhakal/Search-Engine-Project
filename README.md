@@ -4,19 +4,19 @@
   - Developer: Sujan Dhakal
   
   
-<b> To run: </b>
+<b> To run: </b> <i>
    - Run the Controller Class and pass "website.txt" and "commonword.txt" as arguments. 
    - User will be asked to enter the keyword. Type the keyword and press enter. 
-   - The top 5 search results will be shown. 
+   - The top 5 search results will be shown.  </i>
   
-<b> The priority of the website displayed are based on the following cases. </b>
+<b> The priority of the website displayed are based on the following cases. </b> <i>
    1. Number of unique words that matches
    2. Rating of the website (High, Medium, Low) 
-   3. Alphabetical Order (by the name of the website) 
+   3. Alphabetical Order (by the name of the website)  </i>
   
 
-<b> Connectors user can use to search: </b>
+<b> Connectors user can use to search: </b> <i>
   1. and: return results that match both clauses
   2. or: return results that match either of the clauses.
-  3. '-' : negation, return results that do not contain the word. 
+  3. '-' : negation, return results that do not contain the word.  </i>
   
