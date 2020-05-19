@@ -1,6 +1,8 @@
 # Search-Engine-Project
   • A search engine that searches a prioritized collection of websites (fictitious) based on the keyword input by the user. 
+  
   • Developed in Java using BlueJ
+  
   • Developer: Sujan Dhakal
   
  To run:
